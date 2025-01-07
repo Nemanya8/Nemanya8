@@ -18,7 +18,7 @@
       and creating innovative applications.
     </p>
     <p>Feel free to connect with me!</p>
-    <a href="https://github.com/Nemanya8" target="_blank">Visit My Linkedin</a>
+    <a href="https://www.linkedin.com/in/nemanjamatic/" target="_blank">Visit My Linkedin</a>
   </div>
 </body>
 </html>
